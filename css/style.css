@@ -59,7 +59,7 @@ a {
   background-size: cover;
   padding-top: 39px;
   padding-bottom: 39px;
-  max-width: 1540px;
+  max-width: 1660px;
   padding: 39px 0;
   margin: 0 auto;
   border-bottom: 3px solid var(--text-color);
@@ -218,7 +218,7 @@ a {
   background-image: url("../images/hero-bg.png");
   background-repeat: no-repeat;
   background-size: cover;
-  max-width: 1540px;
+  max-width: 1660px;
   margin: 0 auto;
   padding-top: 180px;
   padding-bottom: 179px;
@@ -308,7 +308,7 @@ a {
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
-  max-width: 1540px;
+  max-width: 1660px;
   margin: 0 auto;
   padding: 330px 0;
 }
@@ -332,7 +332,7 @@ a {
   padding: 58px 0;
   background-repeat: no-repeat;
   background-size: cover;
-  max-width: 1540px;
+  max-width: 1660px;
   margin: 0 auto;
 }
 .lan-list {
@@ -412,7 +412,7 @@ a {
       rgba(43, 74, 97, 0.87)
     ),
     url("../images/footer-bg.png");
-  max-width: 1540px;
+  max-width: 1660px;
   margin: 0 auto;
   background-repeat: no-repeat;
   background-size: cover;
